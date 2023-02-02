@@ -1,1 +1,1 @@
-# student-result-mangement-system
+# LGMVIP-WebDev-Task-2
